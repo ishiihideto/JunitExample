@@ -4,8 +4,6 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-import example3_4.WeatherForecast;
-
 public class WeatherForecastTest {
 	WeatherForecast forecast = new WeatherForecast();
 
